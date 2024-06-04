@@ -251,7 +251,6 @@ footer {
 </body>
 
 </html>
-/</h1>
 <table id="list"><thead><tr><th style="width:55%"><a href="?C=N&O=A">File Name</a>&nbsp;<a href="?C=N&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&O=A">File Size</a>&nbsp;<a href="?C=S&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&O=A">Date</a>&nbsp;<a href="?C=M&O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
 <tbody><tr><td class="link"><a href="../">上级目录/</a></td><td class="大小">-</td><td class="日期">-</td></tr><tr><td class="link"><a href="0_README.txt" title="0_README.txt"></a></td><td class="大小">2.4 KiB</td><td class="date">2024-June-05 21:21</td></tr>
 <tr><td class="link"><a href="wdcopy" title="wdcopy">wdcopy</a></td><td class="size">-</td><td class="date">2024-June-05 21:21 07:55</td></tr>
