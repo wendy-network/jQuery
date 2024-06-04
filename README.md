@@ -246,20 +246,17 @@ footer {
     <div class="devui-alert devui-alert-info ">
       <span class="devui-alert-icon">
       </span>
-      <span>注册用户享1倍加速下载</span>
-      <a href="https://reg.huaweicloud.com/registerui/register.html?locale=zh-cn" class="register-url" target="_blank">
-        立即注册</a>
-    </div>
+     </div>
   </div>
 </body>
 
 </html>
 /</h1>
 <table id="list"><thead><tr><th style="width:55%"><a href="?C=N&O=A">File Name</a>&nbsp;<a href="?C=N&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&O=A">File Size</a>&nbsp;<a href="?C=S&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&O=A">Date</a>&nbsp;<a href="?C=M&O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
-<tbody><tr><td class="link"><a href="../">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr><tr><td class="link"><a href="0_README.txt" title="0_README.txt">0_README.txt</a></td><td class="size">2.4 KiB</td><td class="date">2018-Dec-01 21:21</td></tr>
-<tr><td class="link"><a href="wdcopy" title="wdcopy">wdcopy</a></td><td class="size"></td><td class="date">2024-Nov-05 07:55</td></tr>
-<tr><td class="link"><a href="img" title="img">img</a></td><td class="size"></td><td class="date">2018-Dec-03 23:03</td></tr>
-<tr><td class="link"><a href="api" title="api">api</a></td><td class="size"</td><td class="date">2018-Nov-26 22:28</td></tr>
-<tr><td class="link"><a href="css" title="css">css</a></td><td class="size"></td><td class="date">2018-Dec-03 23:03</td></tr>
-<tr><td class="link"><a href="js" title="js">js</a></td><td class="size"></td><td class="date">2018-Nov-25 01:41</td></tr>
+<tbody><tr><td class="link"><a href="../">上级目录/</a></td><td class="大小">-</td><td class="日期">-</td></tr><tr><td class="link"><a href="0_README.txt" title="0_README.txt"></a></td><td class="大小">2.4 KiB</td><td class="date">2018-Dec-01 21:21</td></tr>
+<tr><td class="link"><a href="wdcopy" title="wdcopy">wdcopy</a></td><td class="size">-</td><td class="date">2024-Nov-05 07:55</td></tr>
+<tr><td class="link"><a href="img" title="img">img</a></td><td class="size"></td>-<td class="date">2018-Dec-03 23:03</td></tr>
+<tr><td class="link"><a href="api" title="api">api</a></td><td class="size"</td>-<td class="date">2018-Nov-26 22:28</td></tr>
+<tr><td class="link"><a href="css" title="css">css</a></td><td class="size"></td>-<td class="date">2018-Dec-03 23:03</td></tr>
+<tr><td class="link"><a href="js" title="js">js</a></td><td class="size"></td>-<td class="date">2018-Nov-25 01:41</td></tr>
 </tbody></table></body></html>
