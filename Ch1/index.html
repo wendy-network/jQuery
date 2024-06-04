@@ -2,16 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Display Current File Name</title>
-    <script>
-        function displayFileName() {
-            var url = window.location.pathname;
-            var fileName = url.substring(url.lastIndexOf('/') + 1);
-            document.getElementById('current-file').textContent = fileName;
-        }
-    </script>
+    <title>Display Folder Files</title>
 </head>
-<body onload="displayFileName();">
-    <p>当前文件名是：<span id="current-file"></span></p>
+<body>
+    <h1>Folder Files</h1>
+    <ul>
+        <?php
+        $folder = "."; // 当前文件夹
+        $files = scandir($folder);
+        foreach($files as $file) {
+            if($file != "." && $file != "..") { // 排除当前目录和上级目录
+                echo "<li>$file</li>";
+            }
+        }
+        ?>
+    </ul>
 </body>
 </html>
