@@ -1,10 +1,11 @@
-<h1>Wendy 组件库</h1>
+<!doctype html>
 <html>
 
 <head>
   <meta charset="utf-8">
-  <title></title>
-  <link rel="stylesheet"  href="/repository/static/css/style.css" type="text/css"/>
+  <title><h1>Wendy 组件库</h1></title>
+  <link href="https://js.wd-wd.top/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet"  href="https://js.wd-wd.top/repository/static/css/style.css" type="text/css"/>
   <style>
     * {
     font-family: 'Verdana', sans-serif;
@@ -238,19 +239,23 @@ footer {
 <style>
     body,html {background:#fff;font-family:"Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;}tr:nth-child(even) {background:#f4f4f4;}th {padding:0.1em 0.5em;}th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}#list {border:1px solid #aaa;width:100%;}a {color:#5f5f5f;}a:hover {color:#000;}
   </style>
+
 </head>
+
 <body>
   <div class="info-content">
     <div class="devui-alert devui-alert-info ">
       <span class="devui-alert-icon">
       </span>
-     </div>
+      <span>本库由GitHub托管</span>
+      <a href="https://wendy8.com" class="register-url" target="_blank">
+        By Wendy</a>
+    </div>
   </div>
 </body>
+
 </html>
-<html>
- <body>
-   根目录/ 
+ 当前位置 /根目录
   <table id="list">
    <thead>
     <tr>
@@ -261,42 +266,17 @@ footer {
     </tr>
    </thead> 
    <tbody>
-    <tr>
-     <td class="link"><a href="../">上级目录/</a></td>
-     <td class="size">-</td>
-     <td class="type">-</td>
-     <td class="date">-</td>
-    </tr> 
-    <tr>
-     <td class="link"><a href="img/" title="img">img/</a></td>
-     <td class="size">-</td>
-	 <td class="type">目录</td>
-     <td class="date">2024-June-05</td>
-    </tr> 
-    <tr>
-     <td class="link"><a href="js/" title="js">js/</a></td>
-     <td class="size">-</td>
-	 <td class="type">目录</td>
-     <td class="date">2024-June-05</td>
-    </tr>  
-    <tr>
-     <td class="link"><a href="css/" title="css">css/</a></td>
-     <td class="size">-</td>
-	 <td class="type">目录</td>
-     <td class="date">2024-June-05</td>
-    </tr>
-    <tr>
-     <td class="link"><a href="api" title="api">api/</a></td>
-     <td class="size">-</td>
-	 <td class="type">目录</td>
-     <td class="date">2024-June-05</td>
-    </tr>
-    <tr>
-     <td class="link"><a href="wdcopy" title="wdcopy">wdcopy/</a></td>
-     <td class="size">-</td>
-	 <td class="type">目录</td>
-     <td class="date">2021-Nov-10 01:37</td>
-    </tr> 
+    <tr><td class="link"><a href="../" se_prerender_url="loading">上级目录/</a></td><td class="size">-</td><td class="type">-</td><td class="date">-</td></tr>
+    <tr><td class="link"><a href="js" title="js" se_prerender_url="complete">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="css" title="css" se_prerender_url="complete">css</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="img" title="img" se_prerender_url="complete">img</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="wdcopy" title="wdcopy" se_prerender_url="wdcopy">wdcopy</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="-" title="js" se_prerender_url="complete">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="js" title="js" se_prerender_url="complete">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="js" title="js" se_prerender_url="complete">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="js" title="js" se_prerender_url="complete">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="js" title="js" se_prerender_url="complete">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
+    <tr><td class="link"><a href="js" title="js" se_prerender_url="complete">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05</td></tr> 
    </tbody>
   </table>
  </body>
