@@ -251,12 +251,10 @@ footer {
 <html>
  <head></head>
  <body>
-  <a href="?C=N&amp;O=A">文件 名</a>&nbsp;
-  <a href="?C=N&amp;O=D">&nbsp;↓&nbsp;</a>
-  <a href="?C=S&amp;O=A">文件 大小</a>&nbsp;
-  <a href="?C=S&amp;O=D">&nbsp;↓&nbsp;</a>
-  <a href="?C=M&amp;O=A">时间</a>&nbsp;
-  <a href="?C=M&amp;O=D">&nbsp;↓&nbsp;</a>
+  <a href="?C=N&amp;O=A">文件 名</a>&nbsp;↓&nbsp;
+  <a href="?C=N&amp;O=D">文件 大小</a>&nbsp;↓&nbsp;
+  <a href="?C=S&amp;O=A">文件 类型</a>&nbsp;↓&nbsp;
+  <a href="?C=M&amp;O=A">时间</a>&nbsp;↓&nbsp;
  </body>
 </html>
 <tbody>
