@@ -1,4 +1,4 @@
-<!doctype html>
+<h1>组件库</h1>
 <html>
 
 <head>
@@ -259,4 +259,4 @@ footer {
 <tr><td class="link"><a href="api" title="api">api</a></td><td class="size"</td>-<td class="date">2018-Nov-26 22:28</td></tr>
 <tr><td class="link"><a href="css" title="css">css</a></td><td class="size"></td>-<td class="date">2018-Dec-03 23:03</td></tr>
 <tr><td class="link"><a href="js" title="js">js</a></td><td class="size"></td>-<td class="date">2018-Nov-25 01:41</td></tr>
-</tbody></table></body></html>
+</tbody></table>
