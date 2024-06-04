@@ -248,12 +248,12 @@ footer {
   </div>
 </body>
 </html>
-<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&O=A">文件 名</a>&nbsp;<a href="?C=N&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&O=A">文件 大小</a>&nbsp;<a href="?C=S&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&O=A">Date</a>&nbsp;<a href="?C=M&O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&O=A">文件 名</a>&nbsp;<a href="?C=N&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&O=A">文件 大小</a>&nbsp;<a href="?C=S&O=A">文件 类型</a>&nbsp;<a href="?C=S&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&O=A">Date</a>&nbsp;<a href="?C=M&O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
 <tbody>
-<tr><td class="link"><a href="../">上级目录/</a></td><td class="大小">-</td><td class="日期">-</td></tr>
-<tr><td class="link"><a href="wdcopy" title="wdcopy">wdcopy</a></td><td class="大小">-</td><td class="date">2024-June-05 21:21</td></tr>
-<tr><td class="link"><a href="img" title="img">img</a></td><td class="size"></td>-<td class="date">2024-June-05 21:21</td></tr>
-<tr><td class="link"><a href="api" title="api">api</a></td><td class="size"</td>-<td class="date">2024-June-05 21:21</td></tr>
-<tr><td class="link"><a href="css" title="css">css</a></td><td class="size"></td>-<td class="date">2024-June-05 23:00</td></tr>
-<tr><td class="link"><a href="js" title="js">js</a></td><td class="size"></td>-<td class="date">2024-June-05 01:41</td></tr>
+<tr><td class="link"><a href="../">上级目录/</a></td><td class="size">-</td><td class="type">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="wdcopy" title="wdcopy">wdcopy</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05 21:21</td></tr>
+<tr><td class="link"><a href="img" title="img">img</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05 21:21</td></tr>
+<tr><td class="link"><a href="api" title="api">api</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05 21:21</td></tr>
+<tr><td class="link"><a href="css" title="css">css</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05 23:00</td></tr>
+<tr><td class="link"><a href="js" title="js">js</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05 01:41</td></tr>
 </tbody></table>
