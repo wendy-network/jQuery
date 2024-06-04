@@ -249,16 +249,15 @@ footer {
 </body>
 </html>
 <html>
- <head></head>
  <body>
-   /mirrors_os2/centos-stream/ 
+   根目录/ 
   <table id="list">
    <thead>
     <tr>
-     <th style="width:35%"><a href="?C=N&amp;O=A">文件 名称</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;↓&nbsp;</a></th>
+     <th style="width:30%"><a href="?C=N&amp;O=A">文件 名称</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;↓&nbsp;</a></th>
      <th style="width:20%"><a href="?C=S&amp;O=A">文件 大小</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;↓&nbsp;</a></th>
 	 <th style="width:20%"><a href="?C=S&amp;O=A">文件 类型</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;↓&nbsp;</a></th>
-     <th style="width:25%"><a href="?C=M&amp;O=A">创建 时间</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;↓&nbsp;</a></th>
+     <th style="width:30%"><a href="?C=M&amp;O=A">创建 时间</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;↓&nbsp;</a></th>
     </tr>
    </thead> 
    <tbody>
