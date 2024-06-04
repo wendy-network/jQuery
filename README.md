@@ -1,4 +1,4 @@
-<h1>组件库</h1>
+<h1>Wendy 组件库</h1>
 <html>
 
 <head>
@@ -248,7 +248,17 @@ footer {
   </div>
 </body>
 </html>
-<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&O=A">文件 名</a>&nbsp;<a href="?C=N&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&O=A">文件 大小</a>&nbsp;<a href="?C=S&O=A">文件 类型</a>&nbsp;<a href="?C=S&O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&O=A">Date</a>&nbsp;<a href="?C=M&O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<html>
+ <head></head>
+ <body>
+  <a href="?C=N&amp;O=A">文件 名</a>&nbsp;
+  <a href="?C=N&amp;O=D">&nbsp;↓&nbsp;</a>
+  <a href="?C=S&amp;O=A">文件 大小</a>&nbsp;
+  <a href="?C=S&amp;O=D">&nbsp;↓&nbsp;</a>
+  <a href="?C=M&amp;O=A">时间</a>&nbsp;
+  <a href="?C=M&amp;O=D">&nbsp;↓&nbsp;</a>
+ </body>
+</html>
 <tbody>
 <tr><td class="link"><a href="../">上级目录/</a></td><td class="size">-</td><td class="type">-</td><td class="date">-</td></tr>
 <tr><td class="link"><a href="wdcopy" title="wdcopy">wdcopy</a></td><td class="size">-</td><td class="type">文件夹</td><td class="date">2024-June-05 21:21</td></tr>
