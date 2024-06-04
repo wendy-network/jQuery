@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Display Current File Name</title>
+    <script>
+        function displayFileName() {
+            var url = window.location.pathname;
+            var fileName = url.substring(url.lastIndexOf('/') + 1);
+            document.getElementById('current-file').textContent = fileName;
+        }
+    </script>
+</head>
+<body onload="displayFileName();">
+    <p>当前文件名是：<span id="current-file"></span></p>
+</body>
+</html>
