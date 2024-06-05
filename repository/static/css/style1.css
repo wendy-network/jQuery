@@ -1,4 +1,39 @@
-<style
+/*
+.register-url {
+            font-weight: bold;
+            color: #F66F6A;
+            cursor: pointer;
+            margin-left: 5px;
+}
+
+        .register-url:hover{
+            color: #FF8B87;
+        }
+
+        .devui-alert {
+            font-size: 12px;
+            border: 1px solid transparent;
+            padding: 10px;
+            line-height: 20px;
+            text-align: center;
+            width: 1000px;
+        }
+
+        .devui-alert.devui-alert-info {
+            background-color: #e9edfa;
+            border-color: #96adfa;
+            color: #252b3a;
+        }
+
+	.devui-alert a {
+	    text-decoration: none;
+	}
+
+        .devui-alert .devui-alert-icon {
+            margin-right: 10px;
+        }
+*/
+
 * {
     font-family: 'Verdana', sans-serif;
     margin: 0;
@@ -18,7 +53,6 @@ html {
 body {
     margin: 0 auto;
     padding-top: 20px;
-    padding-bottom: 20px;
     max-width: 1000px;
 }
 
@@ -188,8 +222,42 @@ footer {
         color:#990012;
     }
 
-.info-content {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-}
+
+    .info-content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .register-url {
+      font-weight: bold;
+      color: #F66F6A;
+      cursor: pointer;
+      margin-left: 5px;
+    }
+
+    .register-url:hover {
+      color: #FF8B87;
+    }
+
+.devui-alert {
+      font-size: 12px;
+      border: 1px solid transparent;
+      padding: 10px;
+      line-height: 20px;
+      width: 1000px;
+    }
+
+    .devui-alert.devui-alert-info {
+      background-color: #e9edfa;
+      border-color: #96adfa;
+      color: #252b3a;
+    }
+
+    .devui-alert a {
+      text-decoration: none;
+    }
+
+    .devui-alert .devui-alert-icon {
+      margin-right: 10px;
+    }
